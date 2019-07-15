@@ -7742,9 +7742,7 @@ W = angled&lt;p&gt;
 <pad name="2" x="-2.54" y="1.27" drill="1" diameter="1.9" shape="octagon"/>
 <pad name="4" x="0" y="1.27" drill="1" diameter="1.9" shape="octagon"/>
 <pad name="6" x="2.54" y="1.27" drill="1" diameter="1.9" shape="octagon"/>
-<text x="-4.953" y="-1.905" size="1.27" layer="21" ratio="10">1</text>
 <text x="-3.81" y="2.921" size="1.27" layer="21" ratio="10">&gt;NAME</text>
-<text x="4.064" y="0.635" size="1.27" layer="21" ratio="10">6</text>
 <text x="-1.27" y="-4.191" size="1.27" layer="27" ratio="10">&gt;VALUE</text>
 </package>
 </packages>
