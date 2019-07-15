@@ -18261,7 +18261,7 @@ diameter 2.54 mm, horizontal, grid 10.16 mm</description>
 </sheet>
 </sheets>
 <errors>
-<approved hash="104,1,106.68,132.08,IC2,VCC,+24V,,,"/>
+<approved hash="104,1,109.22,132.08,IC2,VCC,+24V,,,"/>
 <approved hash="106,1,76.2,144.78,A0,,,,,"/>
 <approved hash="106,1,76.2,142.24,A1,,,,,"/>
 <approved hash="106,1,76.2,139.7,A2,,,,,"/>
