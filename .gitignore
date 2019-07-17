@@ -6,6 +6,7 @@
 *.tmp
 *.aux
 *.log
+*.svg
 *.tex
 *.pdsbak
 *.synctex
